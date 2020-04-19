@@ -5,7 +5,7 @@
 
 ### Problem Statement 
 
-This report sets out to identify potential relationships between 2017-2018 SAT and ACT participation rates and scores, as well as State Debt and State Income Statistics and further analyse the data to identify opportunities for increasing SAT participation rates.
+This report sets out to identify potential relationships between 2017-2018 SAT and ACT participation rates and scores, as well as State Debt and State Income Statistics to identify opportunities for increasing SAT participation rates moving forward.
 
 ---
 
