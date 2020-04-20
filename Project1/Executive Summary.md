@@ -21,7 +21,9 @@ From the data obtained, one of the key observations noted was positive correlati
 
 ### Conclusions and Recommendations
 
-Based on the research articles, the participation rates for both tests were partially a result of state policy with 29 states requiring either SAT or ACT. However, both tests are accepted by colleges and univerisities as part of the admission criterias. 
+Based on the research articles, the participation rates for both tests were partially a result of state policy with 29 states requiring either SAT or ACT. However, both tests are accepted by colleges and univerisities as part of the admission criterias.
+
+For Colorado and Illinois, it was reported that these states made a decision to switch from ACT to SAT as the required test for high school graduation whereas for Alaska, high school students were no longer required to take ACT resulting in a drop in participation rate in 2018. However, no corresponding increase in SAT was noted but a mere increment. This concludes that state policies play a critical role and to increase the participation rates, College Board must actively work with policies decision makers to pitch for the contracts. 
 
 Consider the case of Colorado where the state education board made the decision to switch from ACT to SAT as the standardised test for the State which resulted in the sharp increase in SAT's participation rate in 2018 accompanied by a corresponding sharp fall in ACT participation rate.  [Colorado Kids](https://www.coloradokids.org/wp-content/uploads/2016/01/ACTvsSAT_FINAL.pdf) had published an article of the decision by Colorado to shift from ACT to SAT and the College Board should take reference from this success and consequently, increase efforts in the following aspects in order to increase its participation rates. 
 
