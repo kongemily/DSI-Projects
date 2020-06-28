@@ -1,23 +1,3 @@
-id,statusText,shouldHighlightStatusFailed,legacySubmittedDate,currencyCode,currency,total,restaurantId,restaurantName,restaurantImage,orderUrl
-353183120,Delivered,False,2020-05-21T11:15:10Z,SGD,$,26.09,34850,Waa Cow! - NUS,https://f.roocdn.com/images/menus/199816/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/353183120
-37484374,Delivered,False,2017-05-27T13:28:04Z,SGD,$,22.20,32432,Blackball - Clementi,https://f.roocdn.com/images/menus/14878/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/37484374
-36910339,Delivered,False,2017-05-22T11:55:57Z,SGD,$,46.40,28713,Bangkok Thai Kitchen @ BBBS Robertson Quay,https://f.roocdn.com/images/menus/23322/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/36910339
-36759875,Delivered,False,2017-05-21T11:06:33Z,SGD,$,23.80,24483,Mei Heong Yuen Desserts,,/orders/36759875
-36059542,Delivered,False,2017-05-15T13:19:48Z,SGD,$,25.65,31143,New Shah Alam,https://f.roocdn.com/images/menus/24848/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/36059542
-35732525,Delivered,False,2017-05-13T07:46:52Z,SGD,$,17.90,32432,Blackball - Clementi,https://f.roocdn.com/images/menus/14878/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/35732525
-32330390,Delivered,False,2017-04-15T14:15:58Z,SGD,$,27.20,32432,Blackball - Clementi,https://f.roocdn.com/images/menus/14878/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/32330390
-26194909,Delivered,False,2017-02-19T09:07:29Z,SGD,$,23.20,24483,Mei Heong Yuen Desserts,,/orders/26194909
-24635675,Delivered,False,2017-02-04T11:33:57Z,SGD,$,22.50,24483,Mei Heong Yuen Desserts,,/orders/24635675
-24632135,Delivered,False,2017-02-04T10:56:01Z,SGD,$,22.76,19235,Ceased Operation: 🍜 Xin Wang Hong Kong Café - 321 Clementi🔶,,/orders/24632135
-23100179,Delivered,False,2017-01-19T14:03:52Z,SGD,$,80.02,34333,Boomarang Bistro & Bar - Robertson Quay,https://f.roocdn.com/images/menus/26833/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/23100179
-21560189,Delivered,False,2017-01-01T11:04:01Z,SGD,$,40.88,15276,Bangkok Jam - JEM,,/orders/21560189
-21202520,Delivered,False,2016-12-26T05:31:59Z,SGD,$,37.60,22675,Crystal Jade Kitchen - Clementi Mall,https://f.roocdn.com/images/menus/83115/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/21202520
-20483584,Delivered,False,2016-12-16T10:54:48Z,SGD,$,32.43,15276,Bangkok Jam - JEM,,/orders/20483584
-19387668,Delivered,False,2016-12-04T08:56:02Z,SGD,$,62.94,16838,Paradise Dynasty - Westgate,https://f.roocdn.com/images/menus/114558/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/19387668
-18644262,Delivered,False,2016-11-26T10:04:18Z,SGD,$,30.90,19181,Gecory,,/orders/18644262
-17281326,Delivered,False,2016-11-10T09:15:00Z,SGD,$,74.30,22675,Crystal Jade Kitchen - Clementi Mall,https://f.roocdn.com/images/menus/83115/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/17281326
-15259655,Delivered,False,2016-10-15T13:05:10Z,SGD,$,30.39,19232,Xin Wang Hong Kong Café - West Coast Plaza,https://f.roocdn.com/images/menus/76216/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/15259655
-14818916,Delivered,False,2016-10-09T10:57:29Z,SGD,$,31.60,17553,Kowloon Express,,/orders/14818916
-14818405,Delivered,False,2016-10-09T10:51:41Z,SGD,$,82.42,19232,Xin Wang Hong Kong Café - West Coast Plaza,https://f.roocdn.com/images/menus/76216/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/14818405
-12394630,Delivered,False,2016-09-02T09:46:27Z,SGD,$,32.00,26236,Saveur Thai - Clementi🔷,https://f.roocdn.com/images/menus/105837/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/12394630
-12074632,Delivered,False,2016-08-27T12:49:14Z,SGD,$,29.00,26236,Saveur Thai - Clementi🔷,https://f.roocdn.com/images/menus/105837/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop,/orders/12074632
+version https://git-lfs.github.com/spec/v1
+oid sha256:6755dc3f533f061620b8abf128f928e872290152e72d8542e0f3ec458d133813
+size 4068
